@@ -1,0 +1,23 @@
+{
+    "name": "Foodie Tanzania",
+    "short_name": "Foodie Tanzania",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#d82028",
+    "theme_color": "#d82028",
+    "description": "A Multi-vendor Food. Grocery, eCommerce, Pharmacy & Parcel service.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
