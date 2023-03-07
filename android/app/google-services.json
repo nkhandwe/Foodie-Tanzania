@@ -1,0 +1,121 @@
+{
+    "project_info": {
+        "project_number": "891465571233",
+        "project_id": "foodietanzania-40be3",
+        "storage_bucket": "foodietanzania-40be3.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:891465571233:android:7ea2abab2fd8cd81b749e0",
+                "android_client_info": {
+                    "package_name": "com.foodie.merchant"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "891465571233-eved9tfup5dabforeb1220dqedq930lo.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCWG1mXNE_cxBmPfuZwdcTEvRuop2n6lN0"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "891465571233-eved9tfup5dabforeb1220dqedq930lo.apps.googleusercontent.com",
+                            "client_type": 3
+                        },
+                        {
+                            "client_id": "891465571233-ujg6kra5n6qoc73rch1s6fu3g10pe997.apps.googleusercontent.com",
+                            "client_type": 2,
+                            "ios_info": {
+                                "bundle_id": "com.foodie.tanzania",
+                                "app_store_id": "1629861911"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:891465571233:android:7d971d8ab308a019b749e0",
+                "android_client_info": {
+                    "package_name": "com.foodie.rider"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "891465571233-eved9tfup5dabforeb1220dqedq930lo.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCWG1mXNE_cxBmPfuZwdcTEvRuop2n6lN0"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "891465571233-eved9tfup5dabforeb1220dqedq930lo.apps.googleusercontent.com",
+                            "client_type": 3
+                        },
+                        {
+                            "client_id": "891465571233-ujg6kra5n6qoc73rch1s6fu3g10pe997.apps.googleusercontent.com",
+                            "client_type": 2,
+                            "ios_info": {
+                                "bundle_id": "com.foodie.tanzania",
+                                "app_store_id": "1629861911"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:891465571233:android:92f85cc5788494ecb749e0",
+                "android_client_info": {
+                    "package_name": "com.foodie.tanzania"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "891465571233-eved9tfup5dabforeb1220dqedq930lo.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCWG1mXNE_cxBmPfuZwdcTEvRuop2n6lN0"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "891465571233-eved9tfup5dabforeb1220dqedq930lo.apps.googleusercontent.com",
+                            "client_type": 3
+                        },
+                        {
+                            "client_id": "891465571233-ujg6kra5n6qoc73rch1s6fu3g10pe997.apps.googleusercontent.com",
+                            "client_type": 2,
+                            "ios_info": {
+                                "bundle_id": "com.foodie.tanzania",
+                                "app_store_id": "1629861911"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
