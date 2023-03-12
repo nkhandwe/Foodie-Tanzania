@@ -271,25 +271,25 @@ class _SignInScreenState extends State<SignInScreen> {
                       SizedBox(height: 30),
                       SocialLoginWidget(),
                       GuestButton(),
-                      SizedBox(
-                        height: 30,
-                      ),
-                      Align(
-                        alignment: Alignment.bottomCenter,
-                        child: Text('Made in 🇮🇳 With ❤',
-                            style: robotoBold.copyWith(fontSize: 18)),
-                      ),
-                      SizedBox(
-                        height: 15,
-                      ),
-                      Align(
-                          alignment: Alignment.bottomCenter,
-                          child: Text(
-                            'Powered by : ASCITHUB - LKO',
-                            style: robotoBold.copyWith(
-                                fontSize: 18,
-                                color: Theme.of(context).primaryColor),
-                          )),
+                      // SizedBox(
+                      //   height: 30,
+                      // ),
+                      // Align(
+                      //   alignment: Alignment.bottomCenter,
+                      //   child: Text('Made in 🇮🇳 With ❤',
+                      //       style: robotoBold.copyWith(fontSize: 18)),
+                      // ),
+                      // SizedBox(
+                      //   height: 15,
+                      // ),
+                      // Align(
+                      //     alignment: Alignment.bottomCenter,
+                      //     child: Text(
+                      //       'Powered by : ASCITHUB - LKO',
+                      //       style: robotoBold.copyWith(
+                      //           fontSize: 18,
+                      //           color: Theme.of(context).primaryColor),
+                      //     )),
                     ]);
                   }),
                 ),
